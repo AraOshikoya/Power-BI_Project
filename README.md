@@ -21,6 +21,7 @@ In this Power BI code, I worked on some questions on a database that holds Sampl
 **Show the sales by Sub Category 
 
 ![image](https://github.com/AraOshikoya/Power-BI_Project/assets/132147652/b9521f92-2cd5-4c4d-841c-6c7f8b67bb19)
+![image](https://github.com/AraOshikoya/Power-BI_Project/assets/132147652/9791639b-7bbd-4a7f-9cc9-1b3827af0702)
 
 
 
