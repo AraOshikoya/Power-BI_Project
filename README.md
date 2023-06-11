@@ -22,6 +22,8 @@ In this Power BI code, I worked on some questions on a database that holds Sampl
 
 ![image](https://github.com/AraOshikoya/Power-BI_Project/assets/132147652/b9521f92-2cd5-4c4d-841c-6c7f8b67bb19)
 ![image](https://github.com/AraOshikoya/Power-BI_Project/assets/132147652/9791639b-7bbd-4a7f-9cc9-1b3827af0702)
+![image](https://github.com/AraOshikoya/Power-BI_Project/assets/132147652/c5164502-c2f7-48f4-8b9a-116460028cfa)
+![image](https://github.com/AraOshikoya/Power-BI_Project/assets/132147652/a9074ee1-59b7-471f-9ae8-f2f4ac249ad7)
 
 
 
